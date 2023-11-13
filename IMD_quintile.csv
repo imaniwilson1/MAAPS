@@ -1,10 +1,10 @@
 ﻿LSOA,IMD_quintile
-E01011372,1
-E01011662,1
-E01011368,1
-E01011363,1
-E01011625,1
-E01011427,1
+E01011372,1 (most deprived)
+E01011662,1 (most deprived)
+E01011368,1 (most derpvied)
+E01011363,1 (most deprived)
+E01011625,1 (most deprived)
+E01011427,1 (most deprived)
 E01033021,2
 E01011726,2
 E01011448,2
@@ -23,9 +23,9 @@ E01011329,4
 E01011642,4
 E01032496,4
 E01033015,4
-E01011605,5
-E01011694,5
-E01011522,5
-E01011397,5
-E01011353,5
-E01011271,5
+E01011605,5 (least deprived)
+E01011694,5 (least deprived)
+E01011522,5 (least deprived)
+E01011397,5 (least deprived)
+E01011353,5 (least deprived)
+E01011271,5 (least deprived)
